@@ -14,7 +14,7 @@ En este proyecto, he recreado el diseño de una página web siguiendo las especi
 
 ## Vista Previa del Diseño Original
 
-![Diseño Original]([https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg])
+![Diseño Original](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg]
 
 ## Instrucciones de Uso
 
