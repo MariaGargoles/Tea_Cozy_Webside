@@ -1,0 +1,127 @@
+body {
+    
+    font-family: "Helvetica", sans-serif;
+    color: seashell;
+    background-color: black;
+    font-size: 22px;
+    text-align: center;
+    
+  }
+
+  .logo {
+    position: absolute;
+    left: 0;
+    margin-left: 10px;
+    height: 50px;
+  
+  }
+
+  .header__nav__fixed {
+      top: 0;
+      position: fixed;
+      background-color: black;
+      width: 100%;
+      height: 69px;
+      border-bottom: 1px solid grey;
+    
+   
+  }
+  .menu {
+    
+      text-align: center;
+      display: flex;
+      text-decoration: underline;
+      justify-content: right;
+      color: inherit; 
+      padding: 3px;  
+  
+  }
+
+  li.menu__list__item {
+    list-style: none;
+    margin-right: 10px;
+}
+
+  a {
+    color: seashell;
+  }
+
+  .a:visited {
+    color: seashell;
+
+}
+
+.bg__img__container {
+  
+  width: 100%;
+
+}
+
+.bg__img {
+  height: 700px;
+  width: 1200px;
+
+}
+
+.img__text {
+  position: absolute;
+  top: 30%;
+  background-color: black;
+  width: 100%;
+  display: block;
+}
+
+.tea_moths_container {
+  width: 1000px;
+  margin-left: 25%;
+  
+}
+
+.item{
+  width: 300px;
+  height: 200px;
+  display: inline-flex;
+  margin-bottom: 42px;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 10px;
+
+}
+
+.img__locations {
+  height: 500px;
+  width: 1200px;
+  position: relative;
+  
+}
+
+.spaceboard__locations {
+  position: relative;
+}
+.container_locations {
+  display: flex;
+  margin-bottom: 200px;
+  top: 50%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+   
+}
+
+.location {
+  margin-right: 30px;
+  background-color: black;
+  padding: 20px;
+}
+
+.supper__footer {
+  margin: 20px;
+
+}
+
+.bottom__footer {
+  margin: 20px;
+  position: absolute;
+  left: 0;
+}
