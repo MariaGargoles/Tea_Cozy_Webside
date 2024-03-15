@@ -31,5 +31,5 @@ En este proyecto, he recreado el diseño de una página web siguiendo las especi
 - [Documentación de HTML en MDN Web Docs](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Documentación de CSS en MDN Web Docs](https://developer.mozilla.org/es/docs/Web/CSS)
 
-¡Gracias por revisar este proyecto!
+
 
