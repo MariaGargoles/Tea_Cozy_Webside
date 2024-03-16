@@ -22,7 +22,6 @@ En este proyecto, he recreado el diseño de una página web siguiendo las especi
 1. Clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web para ver la página.
 
-## Contribución
 
 
 ## Recursos Adicionales
